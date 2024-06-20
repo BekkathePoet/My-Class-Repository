@@ -1,0 +1,33 @@
+/*Universal Selector*/
+
+* {
+  font-family: "lucida-sans";
+  font-size: larger;
+}
+
+/* Element Selectors */
+
+body {
+  background-color: aqua;
+}
+section {
+  height: 200px;
+  width: 300px;
+}
+
+p {
+  font-size: 60px;
+  line-height: 100px;
+}
+/* class selector */
+.box-blue {
+  font-weight: bolder;
+  background-color: blue;
+  color: antiquewhite;
+}
+/* id selector */
+#box-orange {
+  color: blue;
+  background-color: orange;
+}
+
